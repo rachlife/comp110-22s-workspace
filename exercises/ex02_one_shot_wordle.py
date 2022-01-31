@@ -1,4 +1,4 @@
-"""EX02 - One-shot Wordle"""
+"""EX02 - One-shot Wordle."""
 
 __author__ = "730272790"
 
@@ -47,7 +47,3 @@ elif len(guess) == len(secret):
     if len(guess) == len(secret): 
         if guess == secret: 
             print("Woo! You got it!")
-
-
-    
-
